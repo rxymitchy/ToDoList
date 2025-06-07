@@ -39,7 +39,7 @@ A full-stack ToDo List application built using **React** on the frontend and **N
 
 1. **Clone the repository**
    bash
-   git clone https://github.com/rxymitchy/ToDoList/edit/todoreact.git
+   git clone https://github.com/rxymitchy/ToDoList.git
    cd todolist
 
 
