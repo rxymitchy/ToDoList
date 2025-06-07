@@ -84,12 +84,6 @@ A full-stack ToDo List application built using **React** on the frontend and **N
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here if you have them)*
-
----
-
 ## 🤝 Contribution
 
 Feel free to fork this repo and open a pull request with your changes. Issues and suggestions are also welcome!
