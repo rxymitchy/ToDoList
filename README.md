@@ -38,38 +38,38 @@ A full-stack ToDo List application built using **React** on the frontend and **N
 ## 📦 Installation
 
 1. **Clone the repository**
-   ```bash
+   bash
    git clone https://github.com/yourusername/todolist.git
    cd todolist
-````
+
 
 2. **Install backend dependencies**
 
-   ```bash
+   bash
    cd backend
    npm install
-   ```
+   
 
 3. **Install frontend dependencies**
 
-   ```bash
+   bash
    cd ../frontend
    npm install
-   ```
+   
 
 4. **Start the backend server**
 
-   ```bash
+   bash
    cd ../backend
    npm run dev
-   ```
+   
 
 5. **Start the React app**
 
-   ```bash
+   bash
    cd ../frontend
    npm start
-   ```
+
 
 ---
 
